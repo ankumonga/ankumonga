@@ -1,5 +1,5 @@
 ## Hi There 👋
-Software Engineer with Python Expertise 
+Software Engineer with Python Expertise <br>
 **Tech Stack** :- Python, Flask, SQL, Numpy, Pandas, Matplotlib, html/css, Shell sripting, Agile, Jira, Azure
 🔭 I’m currently working at Wipro
 🤔 I’m looking new Opportunities related to Python for Professional Growth.
